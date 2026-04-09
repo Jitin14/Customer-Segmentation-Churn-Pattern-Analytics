@@ -1,0 +1,11 @@
+# Core libraries
+pandas==3.0.2
+numpy==2.4.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Streamlit app framework
+streamlit==1.56.0
