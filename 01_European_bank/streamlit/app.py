@@ -14,7 +14,7 @@ st.set_page_config(
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv('C:/Users/acer/Unified Mentors Project/Data/European_Bank.csv')
+    return pd.read_csv('C:/Users/acer/Unified Mentors Project/01_European_bank/Data/European_Bank.csv')
 
 df = load_data()
 
